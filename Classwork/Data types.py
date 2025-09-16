@@ -32,4 +32,5 @@
 # print("Reverse of Given String is: ")
 # print(text)
 str="codingal"
-print(str[::3])
+print(str[::])
+print("notes of 10 rupees:" , note_3)
